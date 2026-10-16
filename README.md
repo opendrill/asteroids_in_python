@@ -2,8 +2,9 @@ This is just a short project to try out UV and practice using classes, inheritan
 
 It is just a simpified version of the old game Asteroids.
 
-If you actually want to play this for some reason:
-1) Clone the repo.
-2) Run the command "uv run main.py".
+If you want to play this:
+1) Clone the repo with "git clone https://example.url".
+2) cd into the newly created "asteroids_in_python" directory
+3) Run the command "uv run main.py".
 
 Note: "python3 main.py" won't work unless you run "source .venv/bin/activate" first.
